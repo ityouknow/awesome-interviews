@@ -43,6 +43,7 @@ Everything you need to know about interviews
 - [Java程序员的面试经历和题库](http://blog.csdn.net/nuaazhaofeng/article/details/63707235)
 - [Java方向如何准备BAT技术面试答案(汇总版)](http://www.jianshu.com/p/1f1d3193d9e3)
 - [java面试准备](https://my.oschina.net/shiyusen/blog/778571)
+- [Java 核心知识点以及面试真题](https://github.com/crossoverJie/Java-Interview)
 
 
 
