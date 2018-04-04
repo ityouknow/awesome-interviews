@@ -13,6 +13,7 @@ Everything you need to know about interviews
 
 ## 合集
 
+- [面试合集很强大](https://github.com/CyC2018/Interview-Notebook)
 - [interviews](https://github.com/kdn251/interviews/blob/master/README-zh-cn.md)  
 - [IT interview](https://github.com/justdojava/it-interview)  
 - [技术面试需要掌握的基础知识整理](https://github.com/CyC2018/Interview-Notebook)
